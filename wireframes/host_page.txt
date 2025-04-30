@@ -1,0 +1,68 @@
++----------------------------------------------------------------------+
+|                                                                      |
+|  [LOGO] CRYPTO LOTTERY                           [CONNECT WALLET]    |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|                          HOST GAME                                   |
+|                                                                      |
+|       Create and host your own custom lottery games                  |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  GAME CONFIGURATION                                                  |
+|                                                                      |
+|  Game Type:                                                          |
+|  [LOTTERY] [DUEL] [QUICK DRAW]                                       |
+|                                                                      |
+|  Game Name: [________________________]                               |
+|                                                                      |
+|  Entry Amount: [_____] USDT                                          |
+|                                                                      |
+|  Number of Players:                                                  |
+|  [2] [5] [10] [20] [50] [CUSTOM: ___]                                |
+|                                                                      |
+|  Game Duration:                                                      |
+|  [1 HOUR] [6 HOURS] [1 DAY] [3 DAYS] [7 DAYS]                        |
+|                                                                      |
+|  Access Type:                                                        |
+|  [PUBLIC] [PRIVATE - INVITE ONLY]                                    |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  REVENUE SHARING                                                     |
+|                                                                      |
+|  For Lottery:                                                        |
+|  - Winner: 50%                                                       |
+|  - Platform: 25%                                                     |
+|  - Host (You): 25%                                                   |
+|                                                                      |
+|  For Duel/Quick Draw:                                                |
+|  - Winner: 90%                                                       |
+|  - Platform: 5%                                                      |
+|  - Host (You): 5%                                                    |
+|                                                                      |
+|  Estimated host revenue: 25.00 USDT                                  |
+|                                                                      |
+|  [CREATE GAME]                                                       |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  YOUR HOSTED GAMES                                                   |
+|                                                                      |
+|  +-------------------+    +-------------------+                      |
+|  |                   |    |                   |                      |
+|  | Weekly Lottery    |    | High Stakes Duel  |                      |
+|  | Entry: $10 USDT   |    | Entry: $500 USDT  |                      |
+|  | Players: 12/20    |    | Players: 0/2      |                      |
+|  | Time left: 3d 5h  |    | Time left: 6h 15m |                      |
+|  |                   |    |                   |                      |
+|  | [MANAGE]          |    | [MANAGE]          |                      |
+|  |                   |    |                   |                      |
+|  +-------------------+    +-------------------+                      |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  [LOTTERY] [DUEL] [QUICK DRAW] [HOST] [WALLET]                      |
+|                                                                      |
++----------------------------------------------------------------------+

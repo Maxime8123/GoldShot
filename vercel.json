@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "frontend/package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "frontend/$1"
+    }
+  ],
+  "env": {
+    "NEXT_PUBLIC_THIRDWEB_CLIENT_ID": "f5408bfc2c3cfab3ae25f88b7ffe1f25",
+    "NEXT_PUBLIC_IS_PRODUCTION": "false",
+    "NEXT_PUBLIC_ACTIVE_CHAIN_ID": "80001",
+    "NEXT_PUBLIC_PLATFORM_WALLET_ADDRESS": "0x45fe416F294Eb17E9D04a6BF169Eb946D7a77A79"
+  }
+}

@@ -1,0 +1,59 @@
++----------------------------------------------------------------------+
+|                                                                      |
+|  [LOGO] CRYPTO LOTTERY                           [CONNECT WALLET]    |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|                          WALLET                                      |
+|                                                                      |
+|       Manage your funds and transactions                             |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  WALLET DETAILS                                                      |
+|                                                                      |
+|  Connected Address: 0x45fe416F294Eb17E9D04a6BF169Eb946D7a77A79       |
+|  Network: Polygon Mumbai Testnet                                     |
+|                                                                      |
+|  [COPY ADDRESS] [VIEW ON EXPLORER] [DISCONNECT]                      |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  BALANCE                                                             |
+|                                                                      |
+|  USDT Balance: 245.50 USDT                                           |
+|                                                                      |
+|  [ADD FUNDS]                                                         |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  ACTIVE SUBSCRIPTIONS                                                |
+|                                                                      |
+|  +-------------------+    +-------------------+                      |
+|  |                   |    |                   |                      |
+|  | Daily Lottery     |    | Monthly Lottery   |                      |
+|  | 5 tickets/day     |    | 2 tickets/month   |                      |
+|  | $5 USDT/day       |    | $40 USDT/month    |                      |
+|  | Next draw: 5h 20m |    | Next draw: 12d    |                      |
+|  |                   |    |                   |                      |
+|  | [MANAGE]          |    | [MANAGE]          |                      |
+|  |                   |    |                   |                      |
+|  +-------------------+    +-------------------+                      |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  TRANSACTION HISTORY                                                 |
+|                                                                      |
+|  04/24/2025 - Daily Lottery Subscription - 5.00 USDT                 |
+|  04/23/2025 - Won Quick Draw Game - +90.00 USDT                      |
+|  04/23/2025 - Quick Draw Entry - 10.00 USDT                          |
+|  04/22/2025 - Daily Lottery Subscription - 5.00 USDT                 |
+|  04/21/2025 - Added funds via Moonpay - +200.00 USDT                 |
+|                                                                      |
+|  [VIEW ALL TRANSACTIONS]                                             |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  [LOTTERY] [DUEL] [QUICK DRAW] [HOST] [WALLET]                      |
+|                                                                      |
++----------------------------------------------------------------------+

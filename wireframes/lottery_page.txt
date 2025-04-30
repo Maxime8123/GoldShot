@@ -1,0 +1,64 @@
++----------------------------------------------------------------------+
+|                                                                      |
+|  [LOGO] CRYPTO LOTTERY                           [CONNECT WALLET]    |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|                          LOTTERY                                     |
+|                                                                      |
+|       Choose your subscription and increase your chances to win      |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  LOTTERY OPTIONS                                                     |
+|                                                                      |
+|  +-------------------+    +-------------------+                      |
+|  |                   |    |                   |                      |
+|  |  DAILY LOTTERY    |    |  MONTHLY LOTTERY  |                      |
+|  |                   |    |                   |                      |
+|  | $1 per ticket     |    | $20 per ticket    |                      |
+|  | Drawn every day   |    | Drawn monthly     |                      |
+|  | at 12:00 UTC      |    | on the 1st        |                      |
+|  |                   |    |                   |                      |
+|  | Current pool:     |    | Current pool:     |                      |
+|  | 1,240 USDT        |    | 24,680 USDT       |                      |
+|  |                   |    |                   |                      |
+|  +-------------------+    +-------------------+                      |
+|                                                                      |
+|  +-------------------+                                               |
+|  |                   |                                               |
+|  |  YEARLY LOTTERY   |                                               |
+|  |                   |                                               |
+|  | $100 per ticket   |                                               |
+|  | Drawn yearly      |                                               |
+|  | on January 1st    |                                               |
+|  |                   |                                               |
+|  | Current pool:     |                                               |
+|  | 156,700 USDT      |                                               |
+|  |                   |                                               |
+|  +-------------------+                                               |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  SUBSCRIPTION DETAILS                                                |
+|                                                                      |
+|  Selected: DAILY LOTTERY                                             |
+|                                                                      |
+|  Number of tickets:  [-] 5 [+]                                       |
+|                                                                      |
+|  Cost per draw: $5 USDT                                              |
+|  Monthly cost: $150 USDT                                             |
+|                                                                      |
+|  [SUBSCRIBE NOW]     [BUY WITH CREDIT CARD]                          |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  SUBSCRIPTION BUNDLES                                                |
+|                                                                      |
+|  [1 WEEK - $35]  [1 MONTH - $150]  [3 MONTHS - $450]                 |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  [LOTTERY] [DUEL] [QUICK DRAW] [HOST] [WALLET]                      |
+|                                                                      |
++----------------------------------------------------------------------+

@@ -1,0 +1,55 @@
++----------------------------------------------------------------------+
+|                                                                      |
+|  [LOGO] CRYPTO LOTTERY                           [CONNECT WALLET]    |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|                     WELCOME TO CRYPTO LOTTERY                        |
+|                                                                      |
+|       The premier platform for blockchain-based lottery games        |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  +-------------------+    +-------------------+                      |
+|  |                   |    |                   |                      |
+|  |      LOTTERY      |    |       DUEL        |                      |
+|  |                   |    |                   |                      |
+|  | Daily, Monthly &  |    |    1v1 Games      |                      |
+|  | Yearly Draws      |    |    Win Big!       |                      |
+|  |                   |    |                   |                      |
+|  | [PLAY NOW]        |    | [CHALLENGE]       |                      |
+|  |                   |    |                   |                      |
+|  +-------------------+    +-------------------+                      |
+|                                                                      |
+|  +-------------------+    +-------------------+                      |
+|  |                   |    |                   |                      |
+|  |    QUICK DRAW     |    |       HOST        |                      |
+|  |                   |    |                   |                      |
+|  | 5 or 10 Players   |    |  Create Your Own  |                      |
+|  | One Winner Takes  |    |  Custom Games     |                      |
+|  | Almost All!       |    |                   |                      |
+|  |                   |    |                   |                      |
+|  | [ENTER DRAW]      |    | [CREATE GAME]     |                      |
+|  +-------------------+    +-------------------+                      |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  UPCOMING DRAWS                                                      |
+|                                                                      |
+|  Daily Lottery: 12:00 UTC - Prize Pool: 1,240 USDT                  |
+|  Monthly Lottery: 3 days left - Prize Pool: 24,680 USDT             |
+|  Yearly Lottery: 128 days left - Prize Pool: 156,700 USDT           |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  RECENT WINNERS                                                      |
+|                                                                      |
+|  0x45fe...7A79 won 620 USDT in Daily Lottery                        |
+|  0x72ab...3F21 won 4,500 USDT in Duel Game                          |
+|  0x91cd...8B45 won 2,700 USDT in Quick Draw                         |
+|                                                                      |
++----------------------------------------------------------------------+
+|                                                                      |
+|  [LOTTERY] [DUEL] [QUICK DRAW] [HOST] [WALLET]                      |
+|                                                                      |
++----------------------------------------------------------------------+
